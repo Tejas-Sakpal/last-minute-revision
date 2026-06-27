@@ -874,4 +874,3 @@ Run through these the hour before your interview:
 
 ---
 
-*Good luck, Tejas — read it top-to-bottom once, then drill Section 17 (write each snippet from memory) and the shuffle/optimization answers in Sections 5, 14, and 15. Those separate strong candidates.*
