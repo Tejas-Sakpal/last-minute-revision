@@ -850,5 +850,3 @@ Run through these the hour before your interview:
 **Interview tips:** Think aloud, state your assumptions, start with a brute-force solution then optimize, mention time/space complexity, and test your code with an edge case (empty input, single element, negatives).
 
 ---
-
-*Good luck, Tejas — you've got this. Read it once top-to-bottom, then re-read the bold lines and Section 13.*
