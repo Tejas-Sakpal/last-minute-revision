@@ -881,5 +881,3 @@ Run through these the hour before your interview:
 **Interview tips:** Restate the question and confirm the schema, think aloud, start simple then refine, prefer `JOIN`s over correlated subqueries when performance matters, handle NULLs and ties explicitly, and mention indexing when asked about performance.
 
 ---
-
-*Good luck, Tejas — read it top-to-bottom once, then drill Section 15 (write each query from memory) and Section 16 (gotchas). Those win interviews.*
