@@ -375,4 +375,3 @@ The hour before:
 
 ---
 
-*Good luck, Tejas — for any scenario: clarify, diagnose, propose, weigh trade-offs, and productionize. Tie it to your real projects and you'll sound exactly like the senior engineer they want to hire.*
