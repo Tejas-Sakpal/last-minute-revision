@@ -441,4 +441,3 @@ The day before:
 
 ---
 
-*Good luck, Tejas — own your projects, defend your numbers, and stay honest about depth. That combination wins interviews.*
