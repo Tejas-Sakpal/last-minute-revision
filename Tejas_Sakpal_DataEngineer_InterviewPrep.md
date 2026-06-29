@@ -641,4 +641,3 @@ These are mapped directly to your resume bullets. Prepare a crisp STAR-style ans
 - Delta Lake = ACID + schema evolution + time travel + MERGE on top of Parquet.
 - Unity Catalog = governance, 3-level namespace (catalog.schema.table).
 
-> Good luck, Tejas. Speak in specifics, lead with numbers, and tie every answer back to a real pipeline you built.
