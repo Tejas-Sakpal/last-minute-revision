@@ -298,4 +298,3 @@ The day before:
 
 ---
 
-*Good luck, Tejas. Your story is strong — own the projects, defend the numbers, and stay honest about depth. That wins interviews.*
