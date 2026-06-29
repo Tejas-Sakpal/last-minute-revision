@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Prepared for:** Tejas Sakpal&nbsp;&nbsp;|&nbsp;&nbsp;**Stack:** Python · SQL · PySpark · Azure Databricks · ADF · ADLS&nbsp;&nbsp;|&nbsp;&nbsp;**Experience:** 4 years&nbsp;&nbsp;|&nbsp;&nbsp;**Date:** June 2026
 
 ## How to use this guide
 
